@@ -1,6 +1,6 @@
-# Network Connection Parser Bash Script
+# Network Sockets Info Parser Bash Script
 
-This Bash script parses active TCP and UDP connections on Linux by reading `/proc/net/` files. It converts hex-encoded IP addresses and ports into human-readable format and shows connection statuses.  
+This Bash script parses active TCP and UDP sockets info on Linux by reading `/proc/net/` files. It converts hex-encoded IP addresses and ports into human-readable format and shows connection statuses.  
 
 ## Requirements  
 - **Bash**  
